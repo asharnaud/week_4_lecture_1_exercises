@@ -11,5 +11,5 @@ var result = 75 > 55;
 var data;
 var result = data;
 
-// e: Undefined
+// e: Number
 var result = -6544.432;
